@@ -1,0 +1,9 @@
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\bin\Debug\Sudoku.exe.config
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\bin\Debug\Sudoku.exe
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\bin\Debug\Sudoku.pdb
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\obj\Debug\Sudoku.Form1.resources
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\obj\Debug\Sudoku.Properties.Resources.resources
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\obj\Debug\Sudoku.exe
+E:\THIRD SEMESTER\data structures\sudoku\sudoku-master\obj\Debug\Sudoku.pdb
